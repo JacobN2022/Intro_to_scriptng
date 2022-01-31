@@ -83,13 +83,13 @@ quart_total = quarters*user_quarters
 
 final_total = penn_total+nick_total+dime_total+quart_total
 
-if final_total ==1.00 or final_total ==100:
+if final_total ==1.00:
     print('Congratulations your total value is equal to one dollar')
 else:
-    if final_total >1.00 or final_total >100:
+    if final_total >1.00:
         print('Sorry, your amount was more than one dollar')
     else:
-        if final_total <1.00 or final_total <100:
+        if final_total <1.00:
             print('Sorry, your amount was less than one dollar')
 
 
