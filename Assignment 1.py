@@ -101,12 +101,16 @@ year = int(input('Enter a year'))
 
 if(year % 400==0) and (year % 100==0):
     print('The year you entered is a leap year')
+    print('February will have 29 days')
 
 elif(year%4==0) and (year%100!=0):
     print('The year you entered is a leap year')
+    print('February will have 29 days')
 
 else:
     print('The year you entered is not a leap year')
+    print('February will have 28 days')
+
 
     
 
