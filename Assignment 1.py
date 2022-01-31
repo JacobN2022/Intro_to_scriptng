@@ -28,14 +28,14 @@ hours = 6
 
 distance = miles * hours
 
-print('The distance the car trvel is',distance)
+print('The distance the car travel is',distance)
 
 # Car distance when driving for 10 hours
 hours = 10
 
 distance = miles * hours
 
-print('The distance the car trvel is',distance)
+print('The distance the car travel is',distance)
 
 # Car distance when driving for 15 hours
 
@@ -43,7 +43,7 @@ hours = 15
 
 distance = miles * hours
 
-print('The distance the car trvel is',distance)
+print('The distance the car travel is',distance)
 
 
 # Problem 4
