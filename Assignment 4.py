@@ -1,3 +1,10 @@
+"""
+Author: Jacob Nino
+Date: 2/22/2022
+
+"""
+
+
 # Problem1
 # This program is to add,chagne, and delete items in a dictionary
 
